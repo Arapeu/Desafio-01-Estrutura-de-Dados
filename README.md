@@ -1,5 +1,8 @@
 # README - Desafio - 01 de Estruturas de Dados
 
+Nome: Pedro Henrique de Araujo Ribeiro
+RA: 1272122069
+
 Este documento descreve as soluções para as questões propostas, relacionadas ao uso de estruturas de dados fundamentais como pilhas, filas e listas encadeadas, todas implementadas em JavaScript.
 
 ---
